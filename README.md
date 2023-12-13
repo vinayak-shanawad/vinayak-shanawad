@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Machine Learning Engineer / MLOps Engineer.
+I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and DevOps advocacy in my work. I enjoy writing articles focussed on MLOps.
 
 <!--
 **vinayak-shanawad/vinayak-shanawad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
