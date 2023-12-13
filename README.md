@@ -12,6 +12,8 @@ I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and
 
 - 💬 Ask me about **Data**
 
+### GitHub Stats
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-shanawad&label=Visitors&color=0e75b6&style=flat" alt="vinayak-shanawad" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinayak-shanawad&show_icons=true&locale=en&layout=compact" alt="vinayak-shanawad" /></p>
