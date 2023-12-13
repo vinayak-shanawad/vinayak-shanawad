@@ -12,6 +12,10 @@ I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and
 
 - 💬 Ask me about **Data**
 
+### Skills
+
+Python 🐍 | AIML 🤖 | MLOps 🚀 | Blogger 🕺 | K8s 🚢 | AWS SageMaker 📊 | Kubeflow | MLflow | NLP 📃 | Computer Vision 👀 | KServe 🚀 | Seldon Core 🚀 | Docker 🐳 | CICD 🔁
+
 ### GitHub Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-shanawad&label=Visitors&color=0e75b6&style=flat" alt="vinayak-shanawad" /> </p>
