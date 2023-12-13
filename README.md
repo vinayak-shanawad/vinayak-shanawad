@@ -2,7 +2,7 @@
 
 I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and DevOps advocacy in my work. I enjoy writing articles focussed on MLOps.
 
-- 🔭 I’m currently working on - GenAI, RAG, RAGAS 🤓
+- 🔭 I’m currently working on - MLOps, K8s 🤓
 - 👯 I’m looking to collaborate on - DL, ML, NLP, CV, MLOps and LLMOps
 - 💬 Ask me about - Data
 <!--
