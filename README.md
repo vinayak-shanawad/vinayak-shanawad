@@ -8,7 +8,7 @@ I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and
 
 - 👯 I’m looking to collaborate on **DL, ML, NLP, CV, MLOps and LLMOps**
 
-- 📝 I regularly write articles on [https://medium.com/@vinayakshanawad](https://medium.com/@vinayakshanawad)
+- 📝 I regularly write articles on [Medium](https://medium.com/@vinayakshanawad)
 
 - 💬 Ask me about **Data**
 
