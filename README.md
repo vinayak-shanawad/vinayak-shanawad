@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Vinayak Shanawad</h1>
-<h3 align="center">A passionate Machine Learning Engineer / MLOps Engineer</h3>
+### Hi there 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinayak-shanawad&label=Profile%20views&color=0e75b6&style=flat" alt="vinayak-shanawad" /> </p>
+I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and DevOps advocacy in my work. I enjoy writing articles focussed on MLOps.
 
 - 🔭 I’m currently working on **MLOps, K8s 🤓**
 
