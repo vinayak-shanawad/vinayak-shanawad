@@ -2,7 +2,7 @@
 
 I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and DevOps advocacy in my work. I enjoy writing articles focussed on MLOps.
 
-- 🔭 I’m currently working on **MLOps, K8s 🤓**
+- 🔭 I’m currently working on **MLOps, LLMOps, and K8s 🤓**
 
 - 🌱 I’m currently learning **GenAI**
 
@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and
 
 ### Skills
 
-Python 🐍 | AIML 🤖 | MLOps 🚀 | K8s 🚢 | AWS SageMaker 📊 | Kubeflow | MLflow | NLP 📃 | Computer Vision 👀 | KServe 🚀 | Seldon Core | Ray🕺| Docker 🐳 | CICD 🔁
+Python 🐍 | AIML 🤖 | MLOps & LLMOps 🚀 | K8s 🚢 | AWS SageMaker 📊 | Kubeflow | MLflow | NLP 📃 | Computer Vision 👀 | KServe 🚀 | Seldon Core | Ray🕺| Docker 🐳 | CICD 🔁
 
 ### GitHub Stats
 
