@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and DevOps advocacy in my work. I enjoy writing articles focussed on MLOps.
+I'm a Machine Learning Engineer / MLOps Engineer. I combine Machine Learning and DevOps advocacy in my work. I enjoy writing articles focussed on MLOps and LLMOps.
 
 - 🔭 I’m currently working on **MLOps, LLMOps, and K8s 🤓**
 
-- 🌱 I’m currently learning **GenAI**
+- 🌱 I’m currently learning **Vector DBs**
 
 - 👯 I’m looking to collaborate on **DL, ML, NLP, CV, MLOps and LLMOps**
 
